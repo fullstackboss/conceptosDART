@@ -9,7 +9,7 @@ void main() {
   List milista = ['juan', 'pedro', 'lupin'];
   
   Map mimapa = {
-  'nombre': 'vegetas',
+  'nombre': 'Broly',
   'edad': '35',
   'sexo': 'masculino'
   };
